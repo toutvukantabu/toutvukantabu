@@ -3,7 +3,7 @@
 I'm back end Developper PHP/SYMFONY
 
 - 🔭 I’m currently working on at home
-- 🌱 I’m currently learning PHP and POO..
+- 🌱 I’m currently learning PHP and POO and SQL
 
 ## Links
 
