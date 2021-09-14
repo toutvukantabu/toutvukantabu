@@ -19,3 +19,7 @@ I'm back end Developper PHP/SYMFONY
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=toutvukantabu.toutvukantabu" alt="visitor badge"/>
 </p>
+<p align="center">
+<img height="137px"  src="https://github-readme-stats.vercel.app/api?username=toutvukantabu&hide=stars&show_icons=true&count_private=false&theme=radical"
+
+</p>
