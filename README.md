@@ -16,10 +16,9 @@ I'm back end Developper PHP/SYMFONY
   <a href="https://hub.docker.com/repository/docker/bescont/php"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a>
 
 </p>
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=toutvukantabu.toutvukantabu" alt="visitor badge"/>
-</p>
 <p align="center">
 <img height="137px"  src="https://github-readme-stats.vercel.app/api?username=toutvukantabu&hide=stars&show_icons=true&count_private=false&theme=white"
-
+</p>
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=toutvukantabu.toutvukantabu" alt="visitor badge"/>
 </p>
