@@ -1,16 +1,21 @@
 ### Hi there 👋, I am Gwendal !!
-I'm back end Developper PHP/SYMFONY
-
+I'm back end Developper ***PHP/SYmfony/ApiPlatform***
 - 🔭 I’m currently working on at home
-- 🌱 I’m currently learning Javascript ,PHP and Docker next step -> unit test
+- 🌱 I’m currently learning Domain driven design and hexagonal architecture
 
-## Links
+### Skills
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,symfony,docker,phpstorm&perline=3"/>
+  </a>
+  
+### Follow me
 
-<p align="center">
-  <a href="https://soundcloud.com/touevukantabu"><img src="https://img.icons8.com/color/96/000000/soundcloud.png" alt="soundcloud"/></a>
-  <a href="[https://www.facebook.com/bescontgwendal](https://www.linkedin.com/in/gwendal-bescont/)"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<p align="left">
+<a alt="gwendal-bescont | Twitter"    href="https://twitter.com/BescontG"><img alt="Gwendal | Twitter" width="40px" src="https://skillicons.dev/icons?i=twitter"/></a>
+<a alt="gwendal-bescont | LinkedIn"   href="https://www.linkedin.com/in/gwendal-bescont/"><img width="40px" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a alt="gwendal-bescont | Soundcloud" href="https://soundcloud.com/touevukantabu"><img src="https://img.icons8.com/color/96/000000/soundcloud.png" alt="soundcloud" width="40px"/></a>
 </p>
-<p align="center">
+<p align="left">
 <img height="137px"  src="https://github-readme-stats.vercel.app/api?username=toutvukantabu&hide=stars&show_icons=true&count_private=false&theme=white"
 </p>
 <p  align="center">
