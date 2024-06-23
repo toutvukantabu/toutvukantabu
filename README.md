@@ -5,7 +5,7 @@ I'm back end Developper ***PHP/SYmfony/ApiPlatform***
 
 ### Skills
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,symfony,docker,phpstorm,postman,postgres,mysql,mint,linux,idea&perline=3"/>
+    <img src="https://skillicons.dev/icons?i=php,symfony,docker,phpstorm,postman,postgres,mysql,mint,linux,proxmox,portainer,truenas,nextcloud,idea&perline=3"/>
   </a>
   
 ### Follow me
