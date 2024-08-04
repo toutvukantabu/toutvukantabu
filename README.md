@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Gwendal !!
 I'm back end Developper ***PHP/SYmfony/ApiPlatform***
 - 🔭 I’m currently working on at home
-- 🌱 I’m currently learning Domain driven design and hexagonal architecture
+- 🌱 I’m currently learning proxmox, traefik, sso connection
 
 ### Skills
   <a href="https://skillicons.dev">
