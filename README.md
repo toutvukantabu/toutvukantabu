@@ -11,7 +11,7 @@ I'm a passionate **Backend Developer** specializing in **PHP, Symfony**, and **A
 ### 🛠️ Technical Skills
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=php,symfony,docker,phpstorm,postman,postgres,mysql,mint,linux,proxmox,portainer,truenas,nextcloud,idea&perline=3" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=php,symfony,docker,phpstorm,postman,postgres,mysql,mint,linux,proxmox,portainer,idea&perline=6" alt="Skills"/>
 </a>
 
 **Backend & Frameworks**  
